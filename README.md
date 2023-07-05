@@ -1,5 +1,4 @@
 # DFS-cloud-project-in-python
-distributed file system
 
 This project is a distributed file system (DFS) implemented in Python. It allows users to store and manage files on a server and access them from multiple clients. The project consists of server-side and client-side code.
 
